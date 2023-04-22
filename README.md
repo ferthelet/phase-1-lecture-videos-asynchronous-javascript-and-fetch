@@ -1,8 +1,8 @@
-# Video: Asynchronous JavaScript & Fetch
+# Video: Asynchronous JavaScript & Fetch.
 
 <iframe src="https://player.vimeo.com/video/549507533?title=0&byline=0&portrait=0" width="640" height="360" allowfullscreen="allowfullscreen" allow="autoplay; fullscreen; picture-in-picture"></iframe>
 
-## Resources
+## Resources.
 
 - [setTimeout](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
 - [What the heck is the event loop anyway?](http://latentflip.com/loupe/)
