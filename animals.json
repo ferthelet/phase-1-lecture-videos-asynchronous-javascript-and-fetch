@@ -1,29 +1,34 @@
 {
-    "animals": [
-        {
-            "id": 1,
-            "name": "Pangolin",
-            "description": "The Pangolin, otherwise known as the scaly",
-            "donations": 0
-        },
-        {
-            "id": 2,
-            "name": "Mantis Shrimp",
-            "description": "The Mantis Shrimp can punch with the speed of light",
-            "donations": 0
-        },
-        {
-            "id": 3,
-            "name": "Gibbon",
-            "description": "Gibbons communicate by singing! Gibbon vocal ability",
-            "donations": 0
-        },
-        {
-            "id": 4,
-            "name": "Wonbat",
-            "description": "Wonbats have cube-shaped poop. Wombat poop is square!",
-            "donations": 0
-        }        
-        
-    ]
+  "animals": [
+    {
+      "id": 1,
+      "name": "Pangolin",
+      "description": "The Pangolin, otherwise known as the scaly",
+      "donations": 0
+    },
+    {
+      "id": 2,
+      "name": "Mantis Shrimp",
+      "description": "The Mantis Shrimp can punch with the speed of light",
+      "donations": 0
+    },
+    {
+      "id": 3,
+      "name": "Gibbon",
+      "description": "Gibbons communicate by singing! Gibbon vocal ability",
+      "donations": 0
+    },
+    {
+      "id": 4,
+      "name": "Wonbat",
+      "description": "Wonbats have cube-shaped poop. Wombat poop is square!",
+      "donations": 0
+    },
+    {
+      "name": "Striped Zebra",
+      "description": "Zebra can kick with the force of a mule",
+      "donations": 0,
+      "id": 5
+    }
+  ]
 }
